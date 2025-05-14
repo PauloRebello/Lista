@@ -42,7 +42,7 @@ if num1 > num2 :
 
 for i in range (num1, num2, 1):
     print(i)
-    #ls -la ls -a rm -f .git git status
+    #ls -la ls -a rm -f .git git status pwd , git add .
     
 if num1 > num2 :
     for i in range (num2, num1):
